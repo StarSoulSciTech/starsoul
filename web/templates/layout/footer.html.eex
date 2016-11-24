@@ -1,0 +1,30 @@
+<!-- Footer
+================================================== -->
+
+<footer class="section-footer bg-inverse" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-5">
+        <div class="media">
+          <div class="media-left">
+            <span class="media-object icon-logo display-1"></span>
+          </div>
+          <small class="media-body media-bottom">
+            &copy; 上海星魄新能源科技有限公司 2015-2016. <br>
+            StarSoul.com.cn 沪ICP备16046497号.
+          </small>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-7">
+        <ul class="nav nav-inline">
+          <li class="nav-item">
+            <a class="nav-link" href="http://www.elecapp.com.cn">ElecApp</a>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="http://axsoft.win">AxSoft</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://github.com/StarSoulSciTech" target="_blank">GitHub</a></li>
+          <li class="nav-item"><a class="nav-link scroll-top" href="#totop">返回顶部 <span class="icon-caret-up"></span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
