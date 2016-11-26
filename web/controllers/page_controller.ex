@@ -4,4 +4,13 @@ defmodule Starsoul.PageController do
   def index(conn, _params) do
     render conn, "index.html"
   end
+
+  def about(conn, _params) do
+    render conn, "about.html"
+  end
+
+  def service(conn, _params) do
+    render conn, "service.html"
+  end
+
 end

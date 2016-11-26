@@ -17,6 +17,8 @@ defmodule Starsoul.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+    get "/service", PageController, :service
+    get "/about", PageController, :about
   end
 
   # Other scopes may use custom stacks.

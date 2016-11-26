@@ -1,0 +1,20 @@
+<section class="jumbotron bg-inverse text-xs-center ">
+  <div class="container">
+    <h1>关于星魄</h1>
+    <h2>星魄科技介绍</h2>
+  </div>
+</section>
+
+<section class="section-text">
+  <div class="container">
+    <h3 class="text-xs-center">助力能源电力从业者事业腾飞</h3>
+    <div class="row p-y-3">
+      <div class="col-md-5">
+        <p class="wp wp-7">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
+      </div>
+      <div class="col-md-5 col-md-offset-2 separator-x">
+        <p class="wp wp-8">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
+      </div>
+    </div>
+  </div>
+</section>

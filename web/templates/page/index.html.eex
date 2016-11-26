@@ -89,7 +89,7 @@
             个人
           </div>
           <div class="card-block">
-            <p class="card-title">Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.</p>
+            <p class="card-title">提供免费行业数据资讯服务</p>
             <h4 class="card-text">
               <sup class="pricing-box-currency">$</sup>
               <span class="pricing-box-price">0</span>
@@ -97,9 +97,9 @@
             </h4>
           </div>
           <ul class="list-group list-group-flush p-x">
-            <li class="list-group-item">Sed risus feugiat</li>
-            <li class="list-group-item">Sed risus feugiat fusce eu sit</li>
-            <li class="list-group-item">Sed risus feugiat fusce</li>
+            <li class="list-group-item">行业资讯</li>
+            <li class="list-group-item">行业数据</li>
+            <li class="list-group-item">行业研报</li>
           </ul>
           <a href="#" class="btn btn-primary-outline">Get Started</a>
         </div>
@@ -110,7 +110,7 @@
             专业
           </div>
           <div class="card-block">
-            <p class="card-title">Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.</p>
+            <p class="card-title">提供专业电力能源从业者服务</p>
             <h4 class="card-text">
               <sup class="pricing-box-currency">$</sup>
               <span class="pricing-box-price">49</span>
@@ -118,10 +118,10 @@
             </h4>
           </div>
           <ul class="list-group list-group-flush p-x">
-            <li class="list-group-item">Sed risus feugiat</li>
-            <li class="list-group-item">Sed risus feugiat fusce eu sit</li>
-            <li class="list-group-item">Sed risus feugiat fusce</li>
-            <li class="list-group-item">Sed risus feugiat</li>
+            <li class="list-group-item">定向咨询</li>
+            <li class="list-group-item">实时数据</li>
+            <li class="list-group-item">行业机会</li>
+            <li class="list-group-item">交流平台</li>
           </ul>
           <a href="#" class="btn btn-primary">Get Started</a>
         </div>
@@ -132,7 +132,7 @@
             企业
           </div>
           <div class="card-block">
-            <p class="card-title">Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.</p>
+            <p class="card-title">提供电力能源行业企业级服务</p>
             <h4 class="card-text">
               <sup class="pricing-box-currency">$</sup>
               <span class="pricing-box-price">99</span>
@@ -140,9 +140,9 @@
             </h4>
           </div>
           <ul class="list-group list-group-flush p-x">
-            <li class="list-group-item">Sed risus feugiat</li>
-            <li class="list-group-item">Sed risus feugiat fusce eu sit</li>
-            <li class="list-group-item">Sed risus feugiat fusce</li>
+            <li class="list-group-item">企业平台</li>
+            <li class="list-group-item">数据接入</li>
+            <li class="list-group-item">企业咨询</li>
           </ul>
           <a href="#" class="btn btn-primary-outline">Get Started</a>
         </div>
@@ -211,7 +211,7 @@
 
 <section class="section-text">
   <div class="container">
-    <h3 class="text-xs-center">Make your mark on the product industry</h3>
+    <h3 class="text-xs-center">助力能源电力从业者事业腾飞</h3>
     <div class="row p-y-3">
       <div class="col-md-5">
         <p class="wp wp-7">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
@@ -240,7 +240,7 @@
           <article class="center-block">
             <span class="label label-info">Featured article</span>
             <br>
-            <h5><a href="#">Design studio with product designer Peter Finlan <span class="icon-arrow-right"></span></a></h5>
+            <h5><a href="#">大规模新能源接入并网技术问题分析 <span class="icon-arrow-right"></span></a></h5>
             <p class="m-b-0">
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-tag"></span> Design Studio</span></a>
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-time"></span> 1 Hour Ago</span></a>
@@ -258,7 +258,7 @@
           <article class="center-block">
             <span class="label label-info">Featured article</span>
             <br>
-            <h5><a href="#">How bold, emotive imagery can connect with your audience <span class="icon-arrow-right"></span></a></h5>
+            <h5><a href="#">大规模储能技术现状分析 <span class="icon-arrow-right"></span></a></h5>
             <p class="m-b-0">
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-tag"></span> Design Studio</span></a>
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-time"></span> 1 Hour Ago</span></a>
@@ -275,7 +275,7 @@
 
 <section class="section-signup bg-faded">
   <div class="container">
-    <h3 class="text-xs-center m-b-3">Sign up to receive free updates as soon as they hit!</h3>
+    <h3 class="text-xs-center m-b-3">立即订阅每周的电力能源行业独家资讯！</h3>
     <form>
       <div class="row">
         <div class="col-md-6 col-xl-3">
