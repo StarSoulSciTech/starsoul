@@ -19,10 +19,7 @@
           <a class="nav-link" href="/service">服务</a>
         </li>
         <li class="nav-item nav-item-toggable">
-          <a class="nav-link" href="/about">关于</a>
-        </li>
-        <li class="nav-item nav-item-toggable">
-          <a class="nav-link" href="https://github.com/StarSoulSciTech" target="_blank">GitHub</a>
+          <a class="nav-link" href="/blog">博客</a>
         </li>
         <li class="nav-item nav-item-toggable hidden-md-up">
           <form class="navbar-form">
@@ -54,11 +51,11 @@
                 <h6>admin@starsoul.com.cn</h6>
               </div>
             </div>
-            <a href="#" class="dropdown-item text-uppercase">项目一览</a>
-            <a href="#" class="dropdown-item text-uppercase">服务列表</a>
-            <a href="#" class="dropdown-item text-uppercase">合作伙伴</a>
+            <a href="/service" class="dropdown-item text-uppercase">服务列表</a>
+            <a href="/about#project" class="dropdown-item text-uppercase">项目一览</a>
+            <a href="/about#partner" class="dropdown-item text-uppercase">合作伙伴</a>
             <!-- <a href="#" class="dropdown-item text-uppercase text-muted">Log out</a> -->
-            <a href="#" class="btn-circle has-gradient pull-xs-right">
+            <a href="/about#contact" class="btn-circle has-gradient pull-xs-right">
               <span class="sr-only">联系我们</span>
               <span class="icon-edit"></span>
             </a>
@@ -76,11 +73,11 @@
           <h6>admin@starsoul.com.cn</h6>
         </div>
       </div>
-      <a href="#" class="dropdown-item text-uppercase">项目一览</a>
-      <a href="#" class="dropdown-item text-uppercase">服务列表</a>
-      <a href="#" class="dropdown-item text-uppercase">合作伙伴</a>
+      <a href="/service" class="dropdown-item text-uppercase">服务列表</a>
+      <a href="/about#project" class="dropdown-item text-uppercase">项目一览</a>
+      <a href="/about#partner" class="dropdown-item text-uppercase">合作伙伴</a>
       <!-- <a href="#" class="dropdown-item text-uppercase text-muted">Log out</a> -->
-      <a href="#" class="btn-circle has-gradient pull-xs-right m-b-1">
+      <a href="/about#contact" class="btn-circle has-gradient pull-xs-right m-b-1">
         <span class="sr-only">联系我们</span>
         <span class="icon-edit"></span>
       </a>

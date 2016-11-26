@@ -15,7 +15,7 @@ exports.config = {
       // order: {
       //   before: [
       //     "web/static/vendor/js/jquery-2.1.1.js",
-      //     "web/static/vendor/js/landio.min.js"
+      //     "web/static/vendor/js/landio.js"
       //   ]
       // }
     },
