@@ -163,35 +163,35 @@
           <blockquote class="blockquote">
             <img src="images/face1.jpg" height="80" width="80" alt="Avatar" class="img-circle">
             <p class="h3">Good design at the front-end suggests that everything is in order at the back-end, whether or not that is the case.</p>
-            <footer>Dmitry Fadeyev</footer>
+            <footer>新能源业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face2.jpg" height="80" width="80" alt="Avatar" class="img-circle">
             <p class="h3">It’s not about knowing all the gimmicks and photo tricks. If you haven’t got the eye, no program will give it to you.</p>
-            <footer>David Carson</footer>
+            <footer>储能业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face3.jpg" height="80" width="80" alt="Avatar" class="img-circle">
             <p class="h3">There’s a point when you’re done simplifying. Otherwise, things get really complicated.</p>
-            <footer>Frank Chimero</footer>
+            <footer>电力市场业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face4.jpg" height="80" width="80" alt="Avatar" class="img-circle">
             <p class="h3">Designing for clients that don’t appreciate the value of design is like buying new tires for a rental car.</p>
-            <footer>Joel Fisher</footer>
+            <footer>物联网业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face5.jpg" height="80" width="80" alt="Avatar" class="img-circle">
             <p class="h3">Every picture owes more to other pictures painted before than it owes to nature.</p>
-            <footer>E.H. Gombrich</footer>
+            <footer>大数据业务</footer>
           </blockquote>
         </div>
       </div>
