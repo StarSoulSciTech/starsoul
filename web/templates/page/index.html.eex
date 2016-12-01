@@ -162,35 +162,35 @@
         <div class="carousel-item active">
           <blockquote class="blockquote">
             <img src="images/face1.jpg" height="80" width="80" alt="Avatar" class="img-circle">
-            <p class="h3">Good design at the front-end suggests that everything is in order at the back-end, whether or not that is the case.</p>
+            <p class="h3">包括陆上风电、海上风电、光伏光热、洋流发电、生物质能等</p>
             <footer>新能源业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face2.jpg" height="80" width="80" alt="Avatar" class="img-circle">
-            <p class="h3">It’s not about knowing all the gimmicks and photo tricks. If you haven’t got the eye, no program will give it to you.</p>
+            <p class="h3">包括高温超导飞轮储能、超导磁储能、化学储能、混合式储能</p>
             <footer>储能业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face3.jpg" height="80" width="80" alt="Avatar" class="img-circle">
-            <p class="h3">There’s a point when you’re done simplifying. Otherwise, things get really complicated.</p>
+            <p class="h3">包括电力市场技术支持系统、需求侧响应、竞价策略分析</p>
             <footer>电力市场业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face4.jpg" height="80" width="80" alt="Avatar" class="img-circle">
-            <p class="h3">Designing for clients that don’t appreciate the value of design is like buying new tires for a rental car.</p>
+            <p class="h3">包括无线互联技术、MEMS芯片技术、区块链技术等</p>
             <footer>物联网业务</footer>
           </blockquote>
         </div>
         <div class="carousel-item">
           <blockquote class="blockquote">
             <img src="images/face5.jpg" height="80" width="80" alt="Avatar" class="img-circle">
-            <p class="h3">Every picture owes more to other pictures painted before than it owes to nature.</p>
+            <p class="h3">包括工业大数据、电力大数据、物联网大数据等</p>
             <footer>大数据业务</footer>
           </blockquote>
         </div>
@@ -214,10 +214,14 @@
     <h3 class="text-xs-center">助力能源电力从业者事业腾飞</h3>
     <div class="row p-y-3">
       <div class="col-md-5">
-        <p class="wp wp-7">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
+        <p class="wp wp-7">
+          工业互联网（Industrial Internet），是开放、全球化的网络，将人、数据和机器连接起来。工业互联网通过机器和ICT技术的融合，可以提高效率，降低成本，减少资源的使用。工业互联网将实体工业与虚拟网络结合，在未来将以革命性的方式极大促进生产力的提高。而中国在这一领域拥有巨大的发展优势，工业互联网将为中国经济创造更高生产率和可持续发展的机遇。
+        </p>
       </div>
       <div class="col-md-5 col-md-offset-2 separator-x">
-        <p class="wp wp-8">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
+        <p class="wp wp-8">
+          大数据（Big Data），指无法在一定时间范围内用常规软件工具进行捕捉、管理和处理的数据集合，是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力的海量、高增长率和多样化的信息资产。现在的社会是一个高速发展的社会，科技发达，信息流通，人们之间的交流越来越密切，生活也越来越方便，大数据就是这个高科技时代的产物，未来是大数据的时代。
+        </p>
       </div>
     </div>
   </div>
