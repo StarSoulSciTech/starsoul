@@ -1,7 +1,7 @@
 <section class="jumbotron bg-inverse text-xs-center ">
   <div class="container">
     <h1>关于星魄</h1>
-    <h2>星魄科技介绍</h2>
+    <h2>星魄科技公司介绍</h2>
   </div>
 </section>
 
@@ -10,10 +10,10 @@
     <h3 class="text-xs-center">助力能源电力从业者事业腾飞</h3>
     <div class="row p-y-3">
       <div class="col-md-5">
-        <p class="">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
+        <p class="">星魄科技目前有发明专利3项，实用新型专利5项，外观设计8项，软件著作权2项，注册商标3个。</p>
       </div>
       <div class="col-md-5 col-md-offset-2 separator-x">
-        <p class="">A posuere donec senectus suspendisse bibendum magna ridiculus a justo orci parturient suspendisse ad rhoncus cursus ut parturient viverra elit aliquam ultrices est sem. Tellus nam ad fermentum ac enim est duis facilisis congue a lacus adipiscing consequat risus consectetur scelerisque integer suspendisse a mus integer elit massa ut.</p>
+        <p class="">星魄科技目前投资控股公司3家，分别是科研软件及云服务，超高速运输平台和新能源汽车。</p>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@
           <article class="center-block">
             <span class="label label-info">Featured article</span>
             <br>
-            <h5><a href="#">大规模新能源接入并网技术问题分析 <span class="icon-arrow-right"></span></a></h5>
+            <h5><a href="#">Hyperloop亚真空超高速管道运输系统 <span class="icon-arrow-right"></span></a></h5>
             <p class="m-b-0">
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-tag"></span> Design Studio</span></a>
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-time"></span> 1 Hour Ago</span></a>
@@ -51,7 +51,7 @@
           <article class="center-block">
             <span class="label label-info">Featured article</span>
             <br>
-            <h5><a href="#">大规模储能技术现状分析 <span class="icon-arrow-right"></span></a></h5>
+            <h5><a href="#">电动汽车混合式储能底盘 <span class="icon-arrow-right"></span></a></h5>
             <p class="m-b-0">
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-tag"></span> Design Studio</span></a>
               <a href="#"><span class="label label-default text-uppercase"><span class="icon-time"></span> 1 Hour Ago</span></a>
